@@ -1,7 +1,6 @@
-## Olá eu sou o Michael Lima, Desenvolvedor fullstack Backend/mobile !
+## Olá eu sou o Guilherme Catone, Estundate de programação !
 
-- 🔭 Atualmente trabalho com desenvolvimento fullstack Backend/mobile
-- 🌱 Estudando React Native
+- 🔭 Atualmente estudo programação!
 
 <div align="center">
   <a href="https://github.com/GuilhermeCatone">
